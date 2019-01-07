@@ -1,0 +1,5 @@
+    else:
+        raise Heigh
+#print('体重不达标')
+except Heigh as e:
+    print('输入错误')

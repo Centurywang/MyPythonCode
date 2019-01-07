@@ -27,7 +27,6 @@ entry1.grid(column=2,row=2)
 entry2 = tk.Entry()
 entry2.grid(column=2,row=5)
 
-
 # 单个图片转文字 进行搜索 获取文字Entry,传出文字于TextField
 def translation1():
     # 获取输入信息

@@ -4,7 +4,8 @@
 如果一个人的体重与其标准体重的差值在正负 5% 之间，显示“体重正常”，其它则显示“体重超标”或“体重不达标”。
 编写程序，能处理用户输入的异常，并且使用自定义异常类来处理身高小于30cm、大于250cm的异常情况
 '''
-
+class Heigh(Exception):
+    pass
 
 
 try:
@@ -15,7 +16,8 @@ try:
     if difference > 5/100:
         print('体重正常')
     else:
-        print('体重不达标')
-except:
+        raise Heigh
+        #print('体重不达标')
+except Heigh as e:
     print('输入错误')
 
