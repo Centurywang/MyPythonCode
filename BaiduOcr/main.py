@@ -2,26 +2,43 @@ import BaiduOcr
 import getFileName
 import OcrGUI
 
+import tkinter as tk
 '''创建窗口'''
 # 标题
-window = OcrGUI.Window('图片转文字')
+window = tk.Tk()
+window.title('图片转文字')
+window.geometry()
 # 标签
-window.addLabel(name='label1',text='单个图片转文字',column=2,row=0)
-window.addLabel(name='label2',text='目录下图片转文字',column=2,row=4)
-window.addLabel(name='label3',text='请输入文件路径',column=0,row=2)
-window.addLabel(name='label4',text='请输入目录路径',column=0,row=5)
+label1 = tk.Label(text='单个图片转文字')
+label1.grid(column=2, row=0)
+
+label2 = tk.Label(text='目录下图片转文字')
+label2.grid(column=2,row=4)
+
+label3 = tk.Label(text='请输入文件路径')
+label3.grid(column=0,row=2)
+
+label4 = tk.Label(text='请输入目录路径')
+label4.grid(column=0,row=5)
 # 输入框
-entry1 = window.addEntry(name='entry1',column=2,row=2)
-entry2 = window.addEntry(name='entry2',column=2,row=5)
+entry1 = tk.Entry()
+entry1.grid(column=2,row=2)
+
+entry2 = tk.Entry()
+entry2.grid(column=2,row=5)
 
 
 # 单个图片转文字 进行搜索 获取文字Entry,传出文字于TextField
 def translation1():
     # 获取输入信息
     filePath = str(entry1.get())
+    print(filePath)
     result = getFileName.getPictureWords(filePath)
+    print(result)
     # 显示结果TextField
-    window.addTextField('field1',  row=4, text=result)
+    textField = tk.Text(master=window, height=10, width=30)
+    textField.grid(row=6,column=0)
+    textField.insert(tk.END,result)
 # , height=300, width=400
 def translation2():
     # 获取输入信息
@@ -29,10 +46,10 @@ def translation2():
     # 将结果在桌面写出
     getFileName.getPicturesWords(directoryPath)
 
-
-#
 # 按钮
-window.addButton("button1",'确定',4,2,translation1)
-window.addButton("button2",'确定',4,5,translation2)
+button1 = tk.Button(text='确定',command=translation1)
+button2 = tk.Button(text='确定',command=translation2)
+button1.grid(column=4, row=2)
+button2.grid(column=4, row=5)
 
-window.run()
+window.mainloop()
