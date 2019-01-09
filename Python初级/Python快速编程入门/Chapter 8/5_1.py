@@ -9,7 +9,6 @@
 
 file = open('file1','r')
 
-
 for line in file:
     if line[0] == '#':
         pass
