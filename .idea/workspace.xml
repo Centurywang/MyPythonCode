@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fceda70-c126-4c53-9ee9-db1c71abbf98" name="默认更改列表" comment="爬虫 scrapy库练习">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mongoSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习/numpy使用/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/scrapy库/examle/examle/my_exporters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/scrapy库/examle/examle/spiders/BooksSpider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/scrapy库/examle/examle/spiders/book_spider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/scrapy库/example/example/spiders/Demoz_xpath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/scrapy库/example2/example2/spiders/BooksSpider2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MyPythonCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MyPythonCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫/scrapy库/meizitu/meizitu/spiders/demoz_spider.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,23 +13,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MyPythonCode$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1546613833574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Web/Flask项目/练习" />
+    <SUITE FILE_PATH="coverage/MyPythonCode$5_1__2_.coverage" NAME="5_1 (2) Coverage Results" MODIFIED="1546506378648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python初级/Python快速编程入门/第三章课后题" />
     <SUITE FILE_PATH="coverage/MyPythonCode$Manage.coverage" NAME="Manage Coverage Results" MODIFIED="1546593679605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python初级/第一学期Python实训" />
-    <SUITE FILE_PATH="coverage/MyPythonCode$demoz_spider.coverage" NAME="demoz_spider Coverage Results" MODIFIED="1547646381143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/scrapy库/meizitu/meizitu/spiders" />
-    <SUITE FILE_PATH="coverage/MyPythonCode$5_2.coverage" NAME="5_2 Coverage Results" MODIFIED="1546674325579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python初级/Python快速编程入门/Chapter 9" />
     <SUITE FILE_PATH="coverage/MyPythonCode$5_2__2_.coverage" NAME="5_2 (2) Coverage Results" MODIFIED="1546506727491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python初级/Python快速编程入门/第三章课后题" />
-    <SUITE FILE_PATH="coverage/MyPythonCode$.coverage" NAME="查看服务器响应头 Coverage Results" MODIFIED="1547643243921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests库使用" />
-    <SUITE FILE_PATH="coverage/MyPythonCode$5_1__1_.coverage" NAME="5_1 (1) Coverage Results" MODIFIED="1546870371264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python初级/Python快速编程入门/Chapter 8" />
+    <SUITE FILE_PATH="coverage/MyPythonCode$5_2.coverage" NAME="5_2 Coverage Results" MODIFIED="1546674325579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python初级/Python快速编程入门/Chapter 9" />
+    <SUITE FILE_PATH="coverage/MyPythonCode$OcrGUI.coverage" NAME="OcrGUI Coverage Results" MODIFIED="1546611487813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiduOcr" />
+    <SUITE FILE_PATH="coverage/MyPythonCode$5_3.coverage" NAME="5_3 Coverage Results" MODIFIED="1546507385664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python初级/Python快速编程入门/第三章课后题" />
+    <SUITE FILE_PATH="coverage/MyPythonCode$put_file.coverage" NAME="put_file Coverage Results" MODIFIED="1546615101772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Web/Flask项目/练习" />
     <SUITE FILE_PATH="coverage/MyPythonCode$domz_spider.coverage" NAME="domz_spider Coverage Results" MODIFIED="1547643495535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/scrapy库/tutorial/tutorial/spiders" />
+    <SUITE FILE_PATH="coverage/MyPythonCode$test.coverage" NAME="test Coverage Results" MODIFIED="1546614724521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyPythonCode$5_2__1_.coverage" NAME="5_2 (1) Coverage Results" MODIFIED="1546491874523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python初级/Python快速编程入门/第二章课后题" />
+    <SUITE FILE_PATH="coverage/MyPythonCode$demoz_spider.coverage" NAME="demoz_spider Coverage Results" MODIFIED="1547646381143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/scrapy库/meizitu/meizitu/spiders" />
+    <SUITE FILE_PATH="coverage/MyPythonCode$5_1__1_.coverage" NAME="5_1 (1) Coverage Results" MODIFIED="1546870371264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python初级/Python快速编程入门/Chapter 8" />
+    <SUITE FILE_PATH="coverage/MyPythonCode$.coverage" NAME="查看服务器响应头 Coverage Results" MODIFIED="1547643243921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests库使用" />
+    <SUITE FILE_PATH="coverage/MyPythonCode$getFileName.coverage" NAME="getFileName Coverage Results" MODIFIED="1546609894279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiduOcr" />
     <SUITE FILE_PATH="coverage/MyPythonCode$5_1.coverage" NAME="5_1 Coverage Results" MODIFIED="1546868981361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python初级/Python快速编程入门/Chapter 9" />
     <SUITE FILE_PATH="coverage/MyPythonCode$main.coverage" NAME="main Coverage Results" MODIFIED="1546849414849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiduOcr" />
-    <SUITE FILE_PATH="coverage/MyPythonCode$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1546613833574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Web/Flask项目/练习" />
-    <SUITE FILE_PATH="coverage/MyPythonCode$test.coverage" NAME="test Coverage Results" MODIFIED="1546614724521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MyPythonCode$OcrGUI.coverage" NAME="OcrGUI Coverage Results" MODIFIED="1546611487813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiduOcr" />
-    <SUITE FILE_PATH="coverage/MyPythonCode$5_1__2_.coverage" NAME="5_1 (2) Coverage Results" MODIFIED="1546506378648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python初级/Python快速编程入门/第三章课后题" />
-    <SUITE FILE_PATH="coverage/MyPythonCode$put_file.coverage" NAME="put_file Coverage Results" MODIFIED="1546615101772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Web/Flask项目/练习" />
-    <SUITE FILE_PATH="coverage/MyPythonCode$getFileName.coverage" NAME="getFileName Coverage Results" MODIFIED="1546609894279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiduOcr" />
-    <SUITE FILE_PATH="coverage/MyPythonCode$5_3.coverage" NAME="5_3 Coverage Results" MODIFIED="1546507385664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python初级/Python快速编程入门/第三章课后题" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -59,52 +51,61 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/example2/example2/spiders/BooksSpider2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="34" column="47" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/matplotlib_examples/matplotlib_examples/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="69" column="34" selection-start-line="69" selection-start-column="34" selection-end-line="69" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/meizitu/meizitu/spiders/demoz_spider.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/meizitu/meizitu/items.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+            <state relative-caret-position="200">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/meizitu/meizitu/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/matplotlib_examples/matplotlib_examples/spiders/examples.py">
+        <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/meizitu/meizitu/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="13" column="65" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
+            <state relative-caret-position="323">
+              <caret line="55" column="60" lean-forward="true" selection-start-line="55" selection-start-column="60" selection-end-line="55" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/examle/examle/spiders/book_spider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/meizitu/meizitu/middlewares.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="10" column="30" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="30" />
+              <folding>
+                <element signature="e#169#195#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/meizitu/meizitu/spiders/meizi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="17" column="73" selection-start-line="17" selection-start-column="73" selection-end-line="17" selection-end-column="73" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
               </folding>
@@ -112,32 +113,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/机器学习/numpy使用/test1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/matplotlib_examples/matplotlib_examples/items.py">
+        <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/meizitu/meizitu/spiders/meizi.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/matplotlib_examples/matplotlib_examples/pipelines.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="19" column="59" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
-              <folding>
-                <element signature="e#300#348#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-1300">
+              <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -195,7 +175,6 @@
         <option value="$PROJECT_DIR$/爬虫/scrapy库/test1.py" />
         <option value="$PROJECT_DIR$/爬虫/scrapy库/tutorial/tutorial/items.py" />
         <option value="$PROJECT_DIR$/爬虫/scrapy库/tutorial/tutorial/spiders/domz_spider.py" />
-        <option value="$PROJECT_DIR$/爬虫/scrapy库/meizitu/meizitu/items.py" />
         <option value="$PROJECT_DIR$/爬虫/scrapy库/meizitu/meizitu/spiders/demoz_spider.py" />
         <option value="$PROJECT_DIR$/爬虫/scrapy库/books/books/spiders/Demoz_xpath.py" />
         <option value="$PROJECT_DIR$/爬虫/scrapy库/examle/examle/spiders/BooksSpider.py" />
@@ -214,14 +193,18 @@
         <option value="$PROJECT_DIR$/爬虫/scrapy库/matplotlib_examples/matplotlib_examples/pipelines.py" />
         <option value="$PROJECT_DIR$/爬虫/scrapy库/matplotlib_examples/matplotlib_examples/settings.py" />
         <option value="$PROJECT_DIR$/机器学习/numpy使用/test1.py" />
+        <option value="$PROJECT_DIR$/爬虫/scrapy库/meizitu/meizitu/items.py" />
+        <option value="$PROJECT_DIR$/爬虫/scrapy库/meizitu/meizitu/spiders/meizi.py" />
+        <option value="$PROJECT_DIR$/爬虫/scrapy库/meizitu/meizitu/middlewares.py" />
+        <option value="$PROJECT_DIR$/爬虫/scrapy库/meizitu/meizitu/settings.py" />
+        <option value="$PROJECT_DIR$/爬虫/scrapy库/meizitu/meizitu/spiders/meizi.json" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2087" />
-    <option name="y" value="33" />
-    <option name="width" value="1534" />
-    <option name="height" value="822" />
+    <option name="y" value="27" />
+    <option name="width" value="1920" />
+    <option name="height" value="1020" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -231,7 +214,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,18 +224,49 @@
             <path>
               <item name="MyPythonCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyPythonCode" type="462c0819:PsiDirectoryNode" />
-              <item name="机器学习" type="462c0819:PsiDirectoryNode" />
+              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyPythonCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyPythonCode" type="462c0819:PsiDirectoryNode" />
+              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy库" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyPythonCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyPythonCode" type="462c0819:PsiDirectoryNode" />
+              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy库" type="462c0819:PsiDirectoryNode" />
+              <item name="meizitu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyPythonCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyPythonCode" type="462c0819:PsiDirectoryNode" />
+              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy库" type="462c0819:PsiDirectoryNode" />
+              <item name="meizitu" type="462c0819:PsiDirectoryNode" />
+              <item name="meizitu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyPythonCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyPythonCode" type="462c0819:PsiDirectoryNode" />
+              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy库" type="462c0819:PsiDirectoryNode" />
+              <item name="meizitu" type="462c0819:PsiDirectoryNode" />
+              <item name="meizitu" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/StudySoftware/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -470,6 +483,8 @@
       <workItem from="1547956521796" duration="88000" />
       <workItem from="1547959701659" duration="991000" />
       <workItem from="1547975668091" duration="3242000" />
+      <workItem from="1548426831247" duration="2766000" />
+      <workItem from="1548429896019" duration="781000" />
     </task>
     <task id="LOCAL-00001" summary="add /GUI/TkinterTest test1.py &#10;输入姓名 输出问候语">
       <created>1546445318505</created>
@@ -524,7 +539,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82347000" />
+    <option name="totallyTimeSpent" value="85894000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -536,10 +551,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1911" y="-9" width="1618" height="878" extended-state="6" />
+    <frame x="0" y="27" width="1920" height="1020" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.11503856" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.11752137" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5021097" side_tool="true" weight="0.13404825" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -554,15 +569,15 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50136614" side_tool="true" weight="0.32876712" />
       <window_info anchor="bottom" id="调试" order="11" weight="0.32907802" />
-      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4986339" weight="0.3264177" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="13" visible="true" weight="0.32336956" />
-      <window_info anchor="right" x="0" y="0" width="165" height="668" id="Documentation" side_tool="true" visible="true" weight="0.16966581" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4986339" visible="true" weight="0.26160815" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.3238958" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" weight="0.3297587" />
       <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
       <window_info anchor="right" id="Mongo Explorer" order="5" weight="0.39054054" />
+      <window_info anchor="right" x="0" y="0" width="165" height="668" id="Documentation" order="6" side_tool="true" visible="true" weight="0.16966581" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -619,6 +634,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/爬虫/scrapy库/quotesbot" />
+    </ignored-roots>
     <MESSAGE value="add /GUI/TkinterTest test1.py &#10;输入姓名 输出问候语" />
     <MESSAGE value="添加Python快速编程入门 第一、二章 课后编程题" />
     <MESSAGE value="添加Python快速编程入门 第三、四章 课后编程题" />
@@ -630,89 +648,16 @@
     <option name="LAST_COMMIT_MESSAGE" value="爬虫 scrapy库练习" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python初级/Python快速编程入门/Chapter 9/5_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="21" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python初级/Python快速编程入门/Chapter 8/5_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python初级/Python快速编程入门/Chapter 8/file1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requests库使用/查看服务器响应头.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/test1.py" />
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/tutorial/scrapy.cfg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/tutorial/tutorial/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/tutorial/tutorial/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/tutorial/scrapy0.24">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2616">
-          <caret line="411" column="4" lean-forward="true" selection-start-line="411" selection-start-column="4" selection-end-line="411" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/quotesbot/quotesbot/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/quotesbot/quotesbot/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/tutorial/items.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/tutorial/tutorial/settings.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/tutorial/tutorial/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/tutorial/scrapy.cfg" />
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/tutorial/tutorial/middlewares.py" />
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/tutorial/tutorial/pipelines.py" />
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/tutorial/scrapy0.24" />
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/quotesbot/quotesbot/pipelines.py" />
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/quotesbot/quotesbot/settings.py" />
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/tutorial/items.json" />
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/tutorial/tutorial/settings.py" />
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/tutorial/tutorial/items.py" />
     <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/tutorial/tutorial/spiders/domz_spider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -723,61 +668,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/meizitu/result.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/quotesbot/quotesbot/spiders/toscrape-css.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/quotesbot/result.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-750" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/books/books/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/books/result.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/quotesbot/quotesbot/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/quotesbot/quotesbot/spiders/toscrape-xpath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/result.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/example/example/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/example/example/spiders/Demoz_xpath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/meizitu/result.json" />
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/quotesbot/quotesbot/spiders/toscrape-css.py" />
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/quotesbot/result.json" />
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/books/books/items.py" />
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/books/result.json" />
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/quotesbot/quotesbot/items.py" />
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/quotesbot/quotesbot/spiders/toscrape-xpath.py" />
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/result.json" />
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/example/example/items.py" />
     <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/books/books/spiders/Demoz_xpath.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -788,77 +687,20 @@
     <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/examle/books.csv" />
     <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/examle/result.csv" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3cdf55af-7af9-4747-86c9-733cfb4d6521/console.sql" />
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/examle/examle/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="41" column="10" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/examle/examle/spiders/book_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/examle/examle/my_exporters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/examle/examle/pipelines.py" />
     <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/examle/book.csv" />
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/examle/examle/spiders/BooksSpider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/examle/examle/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/examle/examle/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/examle/examle/items.py" />
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/examle/examle/settings.py" />
     <entry file="file://D:/StudySoftware/Anaconda3/Lib/site-packages/scrapy/linkextractors/lxmlhtml.py" />
     <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/example2/example2/spiders/BooksSpider.py" />
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/example2/example2/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-33">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/example2/example2/items.py" />
     <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/example2/books.csv" />
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/matplotlib_examples/matplotlib_examples/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-300" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/matplotlib_examples/examples.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/matplotlib_examples/matplotlib_examples/middlewares.py" />
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/matplotlib_examples/examples.json" />
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/matplotlib_examples/matplotlib_examples/settings.py" />
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/matplotlib_examples/matplotlib_examples/items.py" />
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/matplotlib_examples/matplotlib_examples/pipelines.py" />
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/matplotlib_examples/matplotlib_examples/spiders/examples.py" />
     <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/example2/example2/spiders/BooksSpider2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -869,61 +711,96 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/matplotlib_examples/matplotlib_examples/settings.py">
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/meizitu/meizitu/spiders/demoz_spider.py" />
+    <entry file="file://$PROJECT_DIR$/机器学习/numpy使用/test1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="69" column="34" selection-start-line="69" selection-start-column="34" selection-end-line="69" selection-end-column="34" />
+        <state relative-caret-position="60">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/meizitu/meizitu/spiders/demoz_spider.py">
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/example/example/spiders/Demoz_xpath.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+        <state relative-caret-position="363">
+          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="23" selection-end-column="62" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/meizitu/meizitu/items.py">
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/examle/examle/spiders/BooksSpider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        <state relative-caret-position="220">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/matplotlib_examples/matplotlib_examples/items.py">
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/examle/examle/my_exporters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/matplotlib_examples/matplotlib_examples/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="19" column="59" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+        <state relative-caret-position="360">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
           <folding>
-            <element signature="e#300#348#0" expanded="true" />
+            <element signature="e#0#45#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/matplotlib_examples/matplotlib_examples/spiders/examples.py">
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/meizitu/meizitu/items.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" column="65" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
+        <state relative-caret-position="200">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/meizitu/meizitu/spiders/meizi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="17" column="73" selection-start-line="17" selection-start-column="73" selection-end-line="17" selection-end-column="73" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习/numpy使用/test1.py">
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/examle/examle/spiders/book_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        <state relative-caret-position="325">
+          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/meizitu/meizitu/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="30" />
+          <folding>
+            <element signature="e#169#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/meizitu/meizitu/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="55" column="60" lean-forward="true" selection-start-line="55" selection-start-column="60" selection-end-line="55" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/meizitu/meizitu/spiders/meizi.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1300">
+          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/scrapy库/meizitu/meizitu/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
